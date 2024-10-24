@@ -17,8 +17,8 @@ Clone the repository:
 
 ``` bash
 Copy code
-git clone https://github.com/yourusername/fantasy-football.git
-cd fantasy-football
+git clone https://github.com/Bereket234/Fantasy-football
+cd Fantasy-football
 Install dependencies:
 
 Using npm:
